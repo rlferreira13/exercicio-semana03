@@ -28,5 +28,5 @@ alunoNovo2.imprimeDados();
 console.log(alunoNovo2.getCpf());
 
 let alunoNovo3 = new Aluno("Wanessa","1234566",3);
-alunoNovo2.imprimeDados();
-console.log(alunoNovo2.getCodTurma());
+alunoNovo3.imprimeDados();
+console.log(alunoNovo3.getCodTurma());
